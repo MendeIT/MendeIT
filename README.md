@@ -27,9 +27,9 @@ I'm a Python developer from Russia. I work on Python because it is universal for
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mendeit&theme=gruvbox)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mendeit&theme=blueberry)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mendeit&theme=blueberry)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mendeit&theme=blueberry)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mendeit&theme=solarized)
+![MendeIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendeit&theme=flag-india&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendeit&layout=pie)]
 
 ## :telephone_receiver: How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/AldarSPb)

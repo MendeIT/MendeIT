@@ -5,8 +5,9 @@
 </div>
 
 ## :man_technologist: About Me
-I'm a Python developer from Russia. I work on Python because it is universal for various typical tasks, provides cross-platform support, and has a simple and concise syntax.
-- 🔭 I’m currently working on SPA app.
+I'm a Python developer from Russia. I'm coding on Python because it's universal for various typical tasks, provides cross-platform support, and has a simple and concise syntax.
+- 🔭 I’m currently working on SPA app based FastAPI.
+- 🌱 I’m currently learning FastAPI, SQLAlchemy.
 
 ## :desktop_computer: Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

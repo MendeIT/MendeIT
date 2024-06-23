@@ -23,18 +23,17 @@ I'm a Python developer from Russia. I work on Python because it is universal for
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 
-## :octocat: GitHub Stats:
+## :telephone_receiver: How to reach me:
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/AldarSPb)
+[![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:dordzhiev.aldar@yandex.ru)
 
+## :octocat: GitHub Stats:
 ![trophy](https://github-profile-trophy.vercel.app/?username=mendeit&theme=gruvbox)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mendeit&theme=solarized)
 ![MendeIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendeit&theme=flag-india&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendeit&layout=pie)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendeit&layout=pie)
 
-## :telephone_receiver: How to reach me:
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/AldarSPb)
-
-[![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:dordzhiev.aldar@yandex.ru)
 
 <!--
 **MendeIT/MendeIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

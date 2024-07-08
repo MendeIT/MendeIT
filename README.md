@@ -24,7 +24,7 @@ I'm a Python developer from Russia. I'm coding on Python because it's universal 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/MendeIT/badges/large)]
+![codewars](https://www.codewars.com/users/MendeIT/badges/large)
 
 ## :telephone_receiver: How to reach me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/AldarSPb)

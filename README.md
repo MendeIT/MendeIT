@@ -6,7 +6,7 @@
 
 ## :man_technologist: About Me
 I'm a Python developer from Russia. I'm coding on Python because it's universal for various typical tasks, provides cross-platform support, and has a simple and concise syntax.
-- 🔭 I’m currently working on SPA app based FastAPI.
+- 🔭 I’m currently working on MPA app based Django.
 - 🌱 I’m currently learning FastAPI, SQLAlchemy.
 
 ## :desktop_computer: Tech Stack:

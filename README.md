@@ -6,8 +6,8 @@
 
 ## :man_technologist: About Me
 I'm a Python developer from Russia. I'm coding on Python because it's universal for various typical tasks, provides cross-platform support, and has a simple and concise syntax.
-- 🔭 I’m currently working on MPA app based Django.
-- 🌱 I’m currently learning FastAPI, SQLAlchemy.
+- 🔭 I’m currently working on bot app based AIOgram 3.
+- 🌱 I’m currently learning FastAPI, SQLAlchemy, Redis, AIOgram.
 
 ## :desktop_computer: Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
